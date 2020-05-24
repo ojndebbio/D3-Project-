@@ -6,3 +6,9 @@ The purpose of this challenge was to use D3 library of JS to create a scatter pl
 
 * The scatter plot below shows individual states abbreviated in the U.S. in the circles.
 
+* The axes & labels are seen to the left & bottom of the chart
+
+# Healtcare / Poverty Plot #
+
+
+

@@ -78,7 +78,19 @@ chartGroup.append("g")
   .style("font-weight", "bold")
   .attr("alignment-baseline", "central");
 
-// Create axes titles, Step 7
+// // Initialize tooltip, Step 7
+// chartGroup.call(toolTip);
+
+// // Create event listeners to display & hide the tooltip, Step 8
+// circlesGroup.on("click", function(data) {
+//   toolTip.show(data, this);
+// })
+//   // onmouseout event
+//   .on("mouseout", function(data, index) {
+//     toolTip.hide(data);
+//   });
+
+// Create axes titles, Step 9
 chartGroup.append("text")
 .attr("transform", `translate(${width / 2}, ${height + margin.top + 13})`)
 .attr("text-anchor", "middle")

@@ -10,5 +10,6 @@ The purpose of this challenge was to use D3 library of JS to create a scatter pl
 
 # Healtcare / Poverty Plot #
 
+![](https://github.com/ojndebbio/D3-Project-/blob/master/Scatter%20Plot.PNG)
 
 
